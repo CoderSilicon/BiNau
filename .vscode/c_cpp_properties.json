@@ -4,7 +4,8 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:/dev/emsdk/upstream/emscripten/system/include"
+                "C:/dev/emsdk/upstream/emscripten/system/include",
+                "C:/dev/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__locale_dir/support"
             ],
             "defines": [
                 "_DEBUG",
